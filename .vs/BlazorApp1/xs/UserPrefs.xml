@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E0EB7B65-DBF5-4250-876F-445E23C8744A}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlazorApp1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp1/Shared/NavMenu.razor">
+    <Files>
+      <File FileName="BlazorApp1/Pages/_Host.cshtml" Line="1" Column="1" />
+      <File FileName="BlazorApp1/Pages/Index.razor" />
+      <File FileName="BlazorApp1/Shared/MainLayout.razor" />
+      <File FileName="BlazorApp1/Shared/NavMenu.razor" Line="23" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorApp1" expanded="True">
+            <Node name="BlazorApp1" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="NavMenu.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
